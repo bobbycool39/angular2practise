@@ -1,1 +1,12 @@
-{}
+{
+  "custom-field": "News",
+  "custom-object": {
+    "custom-line": "left",
+    "custom-text": "This example text is used as a description."
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "blue"
+    }
+  ]
+}
